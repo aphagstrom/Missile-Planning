@@ -1,3 +1,3 @@
 # Missile-Planning
-# Codebase created by Landon Shumway.
+# Codebase created by Randy Beard and Landon Shumway.
 # I contributed test_multiple_agents_dynamics.py to launch_files folder
